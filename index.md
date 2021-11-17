@@ -1,4 +1,4 @@
-## Code
+## Giga Models for School Connectivity
 
 You can find the python library containing Giga models [here](https://github.com/actualhq/giga).
 
